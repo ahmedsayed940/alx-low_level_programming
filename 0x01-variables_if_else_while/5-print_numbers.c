@@ -5,5 +5,12 @@
  */
 int main(void)
 {
-	printf("0123456789\n");
+	int  num;
+
+	for (num == 0; num < 10; num++)
+	{
+		printf("%d", num);
+	}
+	putchar('\n');
+	return (0);
 }
