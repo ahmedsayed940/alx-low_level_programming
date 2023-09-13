@@ -3,7 +3,7 @@
  * main - description
  * Return: 0 (seccsse)
  */
-int print_alphabet()
+void print_alphabet(void)
 {
 	int alp;
 
@@ -12,7 +12,7 @@ int print_alphabet()
 		_putchar(alp);
 	}
 	_putchar('\n');
-	return (0);
+	return;
 }
 int main(void)
 {
