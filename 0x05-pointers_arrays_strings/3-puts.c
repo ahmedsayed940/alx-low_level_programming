@@ -4,7 +4,7 @@
  * @str: a string
  * Return: equal to length of a string
  */
-void _puts(char *str);
+void _puts(char *str)
 {
 	int n = 0;
 
