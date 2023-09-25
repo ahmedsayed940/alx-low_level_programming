@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * _strchar - function that locates a character in a strin
+ * _strchr - function that locates a character in a strin
  * @s: original string
- * @c: character 
- * Retrun: s
+ * @c: character
+ * Return: s
  */
 char *_strchr(char *s, char c)
 {
