@@ -10,7 +10,7 @@ int sps(int n, int i)
 	int y = n % i;
 
 	if (i == 1)
-		return (0);
+		return (1);
 	if (y == 0)
 		return (0);
 	return (sps(n, i - 1));
