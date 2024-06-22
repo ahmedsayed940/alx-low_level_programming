@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * creat_file - creat file
+ * create_file - creat file
  * @filename: file name
  * @text_content: string
  * Return: -1 if error, 1 if else;
